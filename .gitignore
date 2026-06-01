@@ -1,0 +1,6 @@
+*.mat
+*.zip
+*.csv
+Oxford_Data/
+LG_Data/
+__pycache__/
