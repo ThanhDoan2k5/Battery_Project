@@ -1,7 +1,1 @@
-link tải datasheet:
-LG_data: https://data.mendeley.com/datasets/b5mj79w5w9/2?fbclid=IwY2xjawSKfDlleHRuA2FlbQIxMABicmlkETFQQlhTVkpsVFpua3RrUHNLc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHoQF9V5rA9x6L-RyyKmcOWH5bpgUtfh_3is7yYzPm8_1PJALLutsmUZEWJVb_aem_khBbiMwUMLTCIFM6vgzbCQ
-Oxford_data: https://www.kaggle.com/datasets/sudhaveerapaneni/oxford-dataset?fbclid=IwY2xjawSKfFZleHRuA2FlbQIxMABicmlkETFQQlhTVkpsVFpua3RrUHNLc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHnTIbAqMTqm8_6_csW5vqWS1G1OpQxShJ-ckALWHgzSng_Z5-i30DiXgFEBb_aem_udGLUuNKggZwn0jwyKwiGg
-Battery_datasheet: https://www.kaggle.com/datasets/programmer3/lithium-ion-battery-degradation-dataset?hl=vi-VN&fbclid=IwY2xjawSKfmtleHRuA2FlbQIxMABicmlkETFQQlhTVkpsVFpua3RrUHNLc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHtaAlABngtSYneMC_Fl8m7g4bjofr1vRiN5m-0MSnpN1vMyZy3wE8-FHU9WI_aem_jJw3zFa5dFfwSpvXrRHLpA
-ev_battery_charging_data: https://www.kaggle.com/datasets/ziya07/ev-battery-charging-data
-Khi down datasheet của Oxford và LG xong thì extract rồi đổi tên forlder thành Oxford_Data và LG_Data
-https://drive.google.com/drive/folders/19mpYVv_SEXilw3iv1eR-NWUietI_gj6Z?usp=drive_link
+
