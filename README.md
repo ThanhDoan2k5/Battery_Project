@@ -29,7 +29,6 @@ Dataset của dự án
 ### 1. Chuẩn bị môi trường
 - Cài đặt các thư viện cần thiết thông qua pip:
 
-Bash
 pip install pandas numpy scikit-learn torch joblib scipy matplotlib seaborn
 
 ### 2. Chuẩn bị Dữ liệu
@@ -41,5 +40,4 @@ pip install pandas numpy scikit-learn torch joblib scipy matplotlib seaborn
 - Chạy file Jupyter Notebook battery_demo1 (4).ipynb để thực hiện quá trình gộp dữ liệu, huấn luyện mô hình (master_battery_rf_model.pkl, master_battery_dnn.pth).
 - Chạy script dự báo (predict function) để nhập thông số thực tế của pin và xem kết quả:
 
-Bash
 python predict_battery.py
